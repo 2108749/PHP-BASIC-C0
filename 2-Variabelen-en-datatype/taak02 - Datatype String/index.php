@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php
-$voornaam = diego; 
+$voornaam = "diego"; 
 echo $voornaam;
 ?>
 
