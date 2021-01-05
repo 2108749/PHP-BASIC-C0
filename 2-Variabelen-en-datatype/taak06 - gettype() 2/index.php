@@ -5,7 +5,9 @@
     <?php
     $voornaam = "diego";
     echo gettype($voornaam);
-    $leeftijd = 17;
+    $leeftijd = 1.7;
     echo gettype($leeftijd);
     $male = true;
     echo gettype($male);
+    $female = null;
+    echo gettype($female);
