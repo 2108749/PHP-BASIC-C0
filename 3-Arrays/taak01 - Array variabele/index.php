@@ -3,4 +3,4 @@
 <body>
 <?php
 $MyMovies = "Batman" . "Superman" . "WonderWoman";
-echo "$MyMovies";
+var_dump ($MyMovies);
