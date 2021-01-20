@@ -1,12 +1,15 @@
 <?php
 
-$getal = 21;
+$getal = 50;
     echo $getal += 10;
         echo "<br>";
+    $getal = 50;
     echo $getal -= 10; 
         echo "<br>";
+    $getal = 50;
     echo $getal /= 10;
         echo "<br>";
+    $getal = 50;
     echo $getal *= 10;
 
 
