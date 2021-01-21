@@ -1,5 +1,5 @@
 <?php
-    $prod_besteld = 12;
+    $prod_besteld = 67;
 
     if($prod_besteld < 10) {
         $prijs = 1.50;
@@ -8,6 +8,7 @@
     } else {
         $prijs = 1.00;
     }
+    echo $prod_besteld;
 
 
 
