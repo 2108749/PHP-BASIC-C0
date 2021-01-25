@@ -8,7 +8,7 @@
  * Verder hoef je geen code te schrijven op deze pagina.
  */
 
-
+include "C:\Users\diego\OneDrive - ROCvA, ROCvF en VOvA\jaar1\php-basic-c0\Eindopdracht\bitcoinData.php";
 
 /*******************************************************************************************************************/
 /**************************** De code hieronder heb je nodig en hoef je niet aan te passen *************************/
