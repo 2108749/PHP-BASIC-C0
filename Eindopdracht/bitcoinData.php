@@ -19,7 +19,7 @@
  * Opdracht 2: Zet hier de $buttons array neer 
  */
 $buttons = ['120','236','0,35'];
-echo $buttons[0];
+
 
 
 /******************************************* OPDRACHT 2 doe je hierboven *******************************************/
@@ -114,7 +114,7 @@ function getBitcoinPrice()
 function getDisclaimer()
 {
     $bitcoinData = getBitcoinData();
-    return $bitcoinData->disclaimer;
+    return 'hallo';
 }
 
 // Deze functie geeft de laatste timestamp van de bitcoin prijs terug
